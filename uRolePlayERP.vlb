@@ -1,0 +1,13 @@
+﻿[]
+Coordinates=10,78,96,36
+Visible=True
+
+[lbl_Menu]
+Coordinates=10,10,53,58
+
+[scrlbx_Menu]
+Coordinates=73,10,76,36
+
+[pagMain]
+Visible=False
+
